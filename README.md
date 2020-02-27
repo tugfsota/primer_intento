@@ -1,3 +1,3 @@
 # primer_intento
 
-[picale aqui wey](file:///C:/Users/Hp/Documents/galletopolis/html/primer_intento/index.html)
+[picale aqui wey](https://github.com/tugfsota/primer_intento/blob/master/README.md)
